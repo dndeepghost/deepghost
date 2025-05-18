@@ -48,7 +48,7 @@ python main.py --query "target keyword"
 You can also specify modes:
 python main.py --query "bitcoin wallet dump" --mode dark
 
-🧠 How It Works
+##🧠 How It Works
 Searches via DuckDuckGo / Custom engines.
 
 Uses AI to detect:
@@ -61,7 +61,7 @@ Can bypass delays, JS countdowns, and auto-redirects.
 
 Downloads final file or captures target data.
 
-🧰 Tech Stack
+##🧰 Tech Stack
 Python 3.10+
 
 DuckDuckGo Search API
@@ -72,8 +72,13 @@ BeautifulSoup, Requests, Asyncio
 
 AI engine (OpenAI / Local ML for decision making)
 
+##📄 License
+This project is licensed under the MIT License.
 
-🧭 Roadmap
+##🤝 Contributing
+We welcome contributions! Check out our CONTRIBUTING.md for guidelines.
+
+##🧭 Roadmap
  Surface Web Search
 
  Tor-based Dark Web Search
@@ -84,11 +89,11 @@ AI engine (OpenAI / Local ML for decision making)
 
  Web interface (future)
 
-📣 Disclaimer
+##📣 Disclaimer
 This tool is intended for educational and research purposes only.
 Do not use it for any illegal activity. The developer is not responsible for misuse.
 
-🔗 Connect
+##🔗 Connect
 🌐 Website: Coming Soon
 
 📬 Email: yourname@proton.me
