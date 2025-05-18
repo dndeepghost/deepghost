@@ -37,7 +37,7 @@ deepghost/
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/deepghost.git
+git clone https://github.com/dndeepghost/deepghost.git
 cd deepghost
 pip install -r requirements.txt
 ```
@@ -108,3 +108,7 @@ This tool is intended for **educational and research purposes only**.
 Do not use it for any illegal activity. The developer is not responsible for misuse.
 
 ---
+## 🔗 Connect
+🌐 Website: Coming Soon
+
+📬 Email: dnovateofficial@gmail.com
