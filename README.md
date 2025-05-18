@@ -41,7 +41,7 @@ deepghost/
 ```bash
 git clone https://github.com/your-username/deepghost.git
 cd deepghost
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
 ▶️ How to Run
 python main.py --query "target keyword"
