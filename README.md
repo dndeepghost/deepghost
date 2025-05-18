@@ -48,18 +48,28 @@ python main.py --query "target keyword"
 You can also specify modes:
 python main.py --query "bitcoin wallet dump" --mode dark
 
+---
+
+## ▶️ How to Run
+python main.py --query "target keyword"
+You can also specify modes:
+python main.py --query "bitcoin wallet dump" --mode dark
+
+---
+
 ## 🧠 How It Works
-Searches via DuckDuckGo / Custom engines.
+1.Searches via DuckDuckGo / Custom engines.
 
-Uses AI to detect:
+2.Uses AI to detect:
 
-Real vs fake links
+  Real vs fake links
+  Hidden downloads behind redirects
 
-Hidden downloads behind redirects
+3.Can bypass delays, JS countdowns, and auto-redirects.
 
-Can bypass delays, JS countdowns, and auto-redirects.
+4.Downloads final file or captures target data.
 
-Downloads final file or captures target data.
+---
 
 ## 🧰 Tech Stack
 Python 3.10+
@@ -72,11 +82,17 @@ BeautifulSoup, Requests, Asyncio
 
 AI engine (OpenAI / Local ML for decision making)
 
+---
+
 ## 📄 License
 This project is licensed under the MIT License.
 
-##🤝 Contributing
+---
+
+## 🤝 Contributing
 We welcome contributions! Check out our CONTRIBUTING.md for guidelines.
+
+---
 
 ## 🧭 Roadmap
  Surface Web Search
@@ -89,13 +105,21 @@ We welcome contributions! Check out our CONTRIBUTING.md for guidelines.
 
  Web interface (future)
 
+---
+
 ## 📣 Disclaimer
 This tool is intended for educational and research purposes only.
 Do not use it for any illegal activity. The developer is not responsible for misuse.
+
+---
 
 ## 🔗 Connect
 🌐 Website: Coming Soon
 
 📬 Email: yourname@proton.me
+
+
+
+
 
 
